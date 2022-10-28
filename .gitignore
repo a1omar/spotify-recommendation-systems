@@ -1,0 +1,8 @@
+# .env file
+.env
+
+# .ipynb_checkpoints
+.ipynb_checkpoints
+
+# ds_store
+.DS_Store
