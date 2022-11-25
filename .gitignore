@@ -7,6 +7,11 @@
 # ds_store
 .DS_Store
 
-# dataset
-Spotify Dataset 1921-2020
-Spotify datasets
+# extras
+.cache
+.cache-"user-library-read <etc>"
+.cache-playlist-modify-private
+.cache-playlist-read-private
+.cache-user-library-read
+.cache-user-library-read <etc>
+data_updated_final.pkl
