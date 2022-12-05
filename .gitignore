@@ -1,7 +1,7 @@
-# .env file
+# env file
 .env
 
-# .ipynb_checkpoints
+# ipynb checkpoints
 .ipynb_checkpoints
 
 # ds_store
@@ -14,6 +14,14 @@
 .cache-playlist-read-private
 .cache-user-library-read
 .cache-user-library-read <etc>
+
+# files too large for GitHub
 data_updated_final.pkl
 complete_feature_set_nonplaylist_0.pkl
 complete_feature_set_nonplaylist_1.pkl
+complete_feature_set_nonplaylist_list_0.pkl
+complete_feature_set_nonplaylist_list_1.pkl
+data_updated_final_bow.pkl
+data_updated_final_tfidf.pkl
+data_updated_non_normal.pkl
+data_updated_final_non_normal.pkl
